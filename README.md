@@ -8,6 +8,8 @@ No setup hassle, no extra software required – just record and share.
 
 ---
 
+![Demo](./Assets/ShareShot_Example01.gif)
+
 ## 🚀 Usage
 
 ### ▶️ Hotkeys
