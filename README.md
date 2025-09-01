@@ -1,14 +1,15 @@
 # 📘 Share Shot
 
 **Share Shot is a lightweight Unreal Engine plugin designed to make sharing your development progress simple and fast.**  
+
+![Demo](./Assets/ShareShot_Example01.gif)
+
 With just a single click, you can record gameplay or editor footage directly into GIF format – perfect for showcasing bugs, features, or quick highlights without external tools.
 
 Whether you’re preparing material for social media, team discussions, or bug reports, Share Shot helps you create clean GIF captures right inside the editor.  
 No setup hassle, no extra software required – just record and share.
 
 ---
-
-![Demo](./Assets/ShareShot_Example01.gif)
 
 ## 🚀 Usage
 
