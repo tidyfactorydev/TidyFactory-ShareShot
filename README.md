@@ -43,6 +43,8 @@ No setup hassle, no extra software required – just record and share.
 ## ⚙️ Settings
 You can configure Share Shot in **Editor Preferences → Plugins → Share Shot**.
 
+![Demo](./Assets/ShareShotSettings.png)
+
 ### 📸 Capture
 - **GIF FPS** *(8–60, default: 12)*  
   Frames per second for capture. Higher values = smoother animation but larger file size.
